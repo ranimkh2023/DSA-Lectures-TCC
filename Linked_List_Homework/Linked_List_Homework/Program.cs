@@ -34,7 +34,7 @@ namespace Linked_List_Homework
             list2.Print();
 
             Console.WriteLine("\nMerging the lists");
-            list.Merge(list2);
+            list.Merge(list);
             list.Print();
         }
     }
